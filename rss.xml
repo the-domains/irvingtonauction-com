@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[irvingtonauction.com]]></title>
+        <description><![CDATA[irvingtonauction.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Aug 2016 01:36:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Help Support Irvington]]></title>
+            <description><![CDATA[<p>Historic Irvington is proud of its roots and is excited to host the city's largest Halloween festival! </p>]]></description>
+            <link>undefinedhelp-support-irvington/index.html</link>
+            <guid isPermaLink="false">6aa95260-d938-4a3c-8c5b-77bba6654f01</guid>
+            <pubDate>Tue, 16 Aug 2016 01:35:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
